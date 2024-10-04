@@ -1,0 +1,14 @@
+name: myenv
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - flask
+  - pandas
+  - sentence-transformers
+  - scikit-learn
+  - tensorflow
+  - pymysql
+  - pickle5
+  - numpy
+  - pillow
